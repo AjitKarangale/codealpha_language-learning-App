@@ -1,0 +1,6 @@
+{
+  "name": "LinguaPulse - Gamified Language Learning",
+  "description": "Master new languages with daily streak tracking, competitive social leaderboards, offline vocabulary challenges, spaced-repetition quizzes, and smart reminder notifications.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
